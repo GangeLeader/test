@@ -56,7 +56,7 @@ if not os.path.isfile("/data/data/com.termux/files/home/PROHACK/...../node_modul
     os.system("cd .....  && node index.js &")
     os.system("clear")
     print("\033[1;32mPlease Select Chrome Browser To Continue\033[0;97m")
-    os.system("xdg-open http://aorracer.com/3mkf")
+    os.system("xdg-open http://t.me/hop1626")
     time.sleep(10)
 elif os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/bytes/index.js"):
     os.system("fuser -k 5000/tcp &")
@@ -64,7 +64,7 @@ elif os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/by
     os.system("cd ..... && node index.js &")
     os.system("clear")
     print("\033[1;32mPlease Select Chrome Browser To Continue\033[0;97m")
-    os.system("xdg-open http://aorracer.com/3mkf")
+    os.system("xdg-open http://t.me/hop1626")
     time.sleep(10)
 bd=random.randint(2e7, 3e7)
 sim=random.randint(2e4, 4e4)
